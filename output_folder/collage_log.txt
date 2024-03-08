@@ -1,6 +1,0 @@
-img_001.jpg: img_3.jpg, img_6.jpg
-img_002.jpg: img_4.jpg, img_5.jpg
-img_003.jpg: img_1.jpg, img_4.jpg
-img_004.jpg: img_1.jpg, img_6.jpg
-img_005.jpg: img_3.jpg, img_5.jpg
-img_006.jpg: img_2.jpg, img_5.jpg
